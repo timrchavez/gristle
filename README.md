@@ -21,7 +21,7 @@ Installation
 Operation
 =========
 
-    gristle --config=path/to/config
+    gristle --config=path/to/config.yaml
 
 Configuration
 =============
