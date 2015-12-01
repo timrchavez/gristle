@@ -1,5 +1,3 @@
-#!/bin/bash
-
 import argparse
 import gevent
 import json
